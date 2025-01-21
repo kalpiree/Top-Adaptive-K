@@ -1,8 +1,8 @@
 # Top-Adaptive-K
 
-## K-adapt Framework
+# K-adapt Framework
 
-# Recommendation Model Analysis
+# Dynamic-K models analysis
 
 This repository provides a framework to generate and analyze recommendation scores using various models, calculate oracle metrics, and compare different recommendation methods.
 
