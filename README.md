@@ -1,10 +1,8 @@
-# Top-Adaptive-K
-
 # K-adapt Framework
 
-# Dynamic-K models analysis
 
-This repository provides a framework to generate and analyze recommendation scores using various models, calculate oracle metrics, and compare different recommendation methods.
+
+This repository provides a framework to generate and analyze recommendation scores using various models, calculate oracle metrics, and compare different dynamic-k methods with K-Adapt
 
 ## Directory Structure
 - `datasets/`: Contains the dataset files for user-item interactions.
