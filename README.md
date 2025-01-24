@@ -12,7 +12,7 @@ This repository provides a framework to generate and analyze recommendation scor
 - `evaluation.py`: Implements evaluation utilities for metrics.
 - `oracle_calculator.py`: Script to calculate oracle values for the dataset.
 - `run.py`: Main script to train models and generate user-item interaction scores.
-- `train.py`: Script for training the models using the provided datasets.
+- `train.py`: Script for training the recommender models using the provided datasets.
 - `utils_new.py`: Utility functions for data preprocessing and loading.
 
 ---
